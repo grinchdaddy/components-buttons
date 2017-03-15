@@ -1,0 +1,22 @@
+.button {
+  font-size: .9rem;
+  line-height: 1;
+
+  display: inline-block;
+
+  margin: 0 0 1rem 0;
+  padding: .85em 1em;
+
+  cursor: pointer;
+  transition: background-color .25s ease-out, color .25s ease-out;
+  text-align: center;
+  vertical-align: middle;
+  text-decoration: none;
+
+  color: #fefefe;
+  border: 1px solid transparent;
+  border-radius: 0;
+  background-color: #2199e8;
+
+  -webkit-appearance: none;
+}
