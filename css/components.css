@@ -20,3 +20,6 @@
 
   -webkit-appearance: none;
 }
+.button:hover{
+    background-color: #1f63a0;
+}
